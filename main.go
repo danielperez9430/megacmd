@@ -11,8 +11,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/t3rm1n4l/go-mega"
-	"github.com/t3rm1n4l/megacmd/client"
+	"github.com/Tecnonucleous/go-mega"
+	"github.com/Tecnonucleous/megacmd/client"
 )
 
 var (
@@ -23,7 +23,7 @@ var (
 const (
 	CONFIG_FILE = ".megacmd.json"
 	AUTHOR      = "Sarath Lakshman"
-	URL         = "github.com/t3rm1n4l/megacmd"
+	URL         = "github.com/Tecnonucleous/megacmd"
 )
 
 const USAGE = `
